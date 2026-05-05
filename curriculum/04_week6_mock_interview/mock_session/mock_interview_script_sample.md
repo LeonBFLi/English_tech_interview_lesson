@@ -1,4 +1,4 @@
-# Week 6 全真模拟面试脚本（Sample）
+# Week 6 全真模拟面试脚本
 
 ## Opening
 - Brief self-introduction
@@ -11,3 +11,6 @@
 
 ## Closing
 - Candidate questions
+
+## Feedback
+- to be provided by the tutors
