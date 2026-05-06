@@ -1,1 +1,77 @@
-# English_tech_interview_lesson
+# English Tech Interview Lesson
+
+一个面向中文学习者的 **8 周技术英语面试训练课程仓库**，聚焦：
+- 技术自我介绍与背景表达
+- 高频 IT 术语与项目表达
+- STAR 行为面试回答
+- Mock Interview 与复盘改进
+- 远程协作英语与技术文档阅读
+
+---
+
+## 仓库结构
+
+```text
+.
+├── curriculum/
+│   ├── 01_week1_diagnosis/
+│   ├── 02_week2_foundation/
+│   ├── 03_week3_tech_terms/
+│   ├── 04_week4_behavior/
+│   ├── 05_week5_project_resume/
+│   ├── 06_week6_mock_interview/
+│   ├── 07_week7_remote_work_english/
+│   ├── 08_week8_docs_listening_graduation/
+│   ├── samples/
+│   └── README.md
+└── README.md
+```
+
+---
+
+## 学习路径（8 周）
+
+1. **Week 1: Diagnosis**  
+   语言能力评估、入学任务、初始画像建立。
+2. **Week 2: Foundation**  
+   打磨技术背景介绍与自我介绍模板。
+3. **Week 3: Tech Terms**  
+   强化高频 IT 术语及例句表达。
+4. **Week 4: Behavior**  
+   使用 STAR 框架组织行为面试答案。
+5. **Week 5: Project & Resume**  
+   项目深挖问答与简历表达优化。
+6. **Week 6: Mock Interview**  
+   进行模拟面试、记录反馈并迭代。
+7. **Week 7: Remote Work English**  
+   练习远程协作场景下的英文沟通。
+8. **Week 8: Docs, Listening & Graduation**  
+   技术文档阅读、听力训练与毕业计划。
+
+---
+
+## 快速开始
+
+1. 先阅读课程总览：`curriculum/README.md`
+2. 按周进入对应目录学习与练习。
+3. 建议使用 `curriculum/samples/student_progress_tracker.csv` 跟踪学习进度。
+4. 每周完成输出（口语/文字）并进行复盘。
+
+---
+
+## 适用人群
+
+- 准备英文技术面试的开发者
+- 希望系统提升技术英语表达的工程师
+- 需要强化项目讲解与面试沟通能力的学习者
+
+---
+
+## 贡献建议
+
+欢迎补充：
+- 新的面试题模板
+- 行业术语清单与示例
+- Mock Interview 脚本与评分规则
+
+如需新增内容，建议保持现有按周组织结构，便于后续维护。
