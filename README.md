@@ -71,7 +71,7 @@
 #### 07. IOTA 概念面试题英文讲解
 - **时长**：09分21秒
 - **状态**：✅
-- **课程链接**：https://appibxs98ig9955.h5.xiaoeknow.com/p/course/video/v_69e1f673e4b0694c5bb1b379?product_id=course_36PqayvXTU48GJPgEJonVAde3pf&course_id=course_36PqayvXTU48GJPgEJonVAde3pf&sub_course_id=
+- **课程链接**：[https://appibxs98ig9955.h5.xiaoeknow.com/p/course/video/v_69e1f673e4b0694c5bb1b379?product_id=course_36PqayvXTU48GJPgEJonVAde3pf&course_id=course_36PqayvXTU48GJPgEJonVAde3pf&sub_course_id=](https://appibxs98ig9955.h5.xiaoeknow.com/p/course/video/v_69e1f673e4b0694c5bb1b379?product_id=course_36PqayvXTU48GJPgEJonVAde3pf&course_id=course_36PqayvXTU48GJPgEJonVAde3pf&sub_course_id=)
 
 #### 08. GoLang 项目 K8S 部署面试题英文讲解
 - **时长**：17分15秒
